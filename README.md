@@ -1,6 +1,6 @@
 # GazeboBuildaWorld
 
-To create a simulation world for all your projects in this Robotics Software Engineer Nanodegree Program.
+To create a simulation world using Gazebo.
 
 1. Build a single floor wall structure using the Building Editor tool in Gazebo. Apply features,color, and texture to the          structure. Make sure there's enough space between the walls for a robot to navigate.
 2. Model a object, using the Model Editor tool in Gazebo. Model links should be connected with joints.
